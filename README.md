@@ -89,10 +89,7 @@ The final reports summarize protocol distribution and the most frequently observ
 - Export analysis reports to CSV.
 - Add more advanced traffic-analysis indicators.
 
-## Disclaimer
+as i am learning to build i copied this from chatgpt the readme file I not completed all this myself i get help from ai like i dont know the concept that but majority of part is done by me 
 
-This project is intended for educational purposes and authorized network analysis only. Use packet captures only when you have permission to analyze and share them. Do not upload captures containing private or sensitive information without appropriate authorization.
 
-## License
-
-Choose a license before publishing if you want others to reuse, modify, or distribute this project. For example, you can use the MIT License.
+thank you
